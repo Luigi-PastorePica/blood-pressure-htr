@@ -2,6 +2,8 @@
 
 A Python application that uses OCR (Optical Character Recognition) to extract blood pressure and heart rate data from handwritten medical logs and exports the results to CSV format.
 
+**This is a project I built using Kiro and Claude Sonnet 4. My intention is to test the new agentic IDE and LLM model, trying to see how far I can go with minimal manual source code changes. At this point, the application is able to instantiate a simple user interface (pretty cool, considering I have 0 experience with Tkinter), browse, and upload a document. Handwritten Text Recognition does not work at this time, or at least not with the files I tried uploading.
+
 ## Features
 
 - **Image Processing**: Preprocesses images for optimal OCR results
